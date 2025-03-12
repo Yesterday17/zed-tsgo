@@ -1,9 +1,9 @@
 id = "zed-tsgo"
 name = "TypeScript Go"
+description = "TypeScript 7 Language Server for Zed"
 version = "0.0.1"
 schema_version = 1
 authors = ["Yesterday17 <mmf@mmf.moe>"]
-description = "My cool extension"
 repository = "https://github.com/Yesterday17/zed-tsgo"
 
 [language_servers.tsgo]
