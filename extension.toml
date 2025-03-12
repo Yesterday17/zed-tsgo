@@ -1,0 +1,11 @@
+id = "zed-tsgo"
+name = "TypeScript Go"
+version = "0.0.1"
+schema_version = 1
+authors = ["Yesterday17 <mmf@mmf.moe>"]
+description = "My cool extension"
+repository = "https://github.com/Yesterday17/zed-tsgo"
+
+[language_servers.tsgo]
+name = "TypeScript Go"
+language = "TypeScript"
